@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.05.2013_04_Brackets\bin\Debug\02.05.2013_04_Brackets.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.05.2013_04_Brackets\bin\Debug\02.05.2013_04_Brackets.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.05.2013_04_Brackets\bin\Debug\02.05.2013_04_Brackets.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.05.2013_04_Brackets\obj\Debug\02.05.2013_04_Brackets.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.05.2013_04_Brackets\obj\Debug\02.05.2013_04_Brackets.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.05.2013_04_Brackets\obj\Debug\02.05.2013_04_Brackets.pdb

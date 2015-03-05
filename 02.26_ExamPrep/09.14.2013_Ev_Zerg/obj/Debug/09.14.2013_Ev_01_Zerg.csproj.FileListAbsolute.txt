@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_Zerg\bin\Debug\09.14.2013_Ev_Zerg.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_Zerg\obj\Debug\09.14.2013_Ev_Zerg.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_Zerg\obj\Debug\09.14.2013_Ev_Zerg.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_Zerg\bin\Debug\09.14.2013_Ev_Zerg.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_Zerg\bin\Debug\09.14.2013_Ev_Zerg.pdb

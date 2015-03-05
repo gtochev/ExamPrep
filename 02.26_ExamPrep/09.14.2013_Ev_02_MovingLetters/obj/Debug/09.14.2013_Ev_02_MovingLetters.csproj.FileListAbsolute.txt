@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_02_MovingLetters\bin\Debug\09.14.2013_Ev_02_MovingLetters.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_02_MovingLetters\bin\Debug\09.14.2013_Ev_02_MovingLetters.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_02_MovingLetters\bin\Debug\09.14.2013_Ev_02_MovingLetters.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_02_MovingLetters\obj\Debug\09.14.2013_Ev_02_MovingLetters.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_02_MovingLetters\obj\Debug\09.14.2013_Ev_02_MovingLetters.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_02_MovingLetters\obj\Debug\09.14.2013_Ev_02_MovingLetters.csprojResolveAssemblyReference.cache

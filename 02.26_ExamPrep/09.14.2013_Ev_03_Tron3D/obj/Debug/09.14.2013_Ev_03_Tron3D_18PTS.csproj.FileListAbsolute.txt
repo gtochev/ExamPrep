@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_03_Tron3D\bin\Debug\09.14.2013_Ev_03_Tron3D.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_03_Tron3D\obj\Debug\09.14.2013_Ev_03_Tron3D.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_03_Tron3D\obj\Debug\09.14.2013_Ev_03_Tron3D.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_03_Tron3D\obj\Debug\09.14.2013_Ev_03_Tron3D_18PTS.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_03_Tron3D\bin\Debug\09.14.2013_Ev_03_Tron3D.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_03_Tron3D\bin\Debug\09.14.2013_Ev_03_Tron3D.pdb

@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_05_TheyAreGreen\bin\Debug\09.14.2013_Ev_05_TheyAreGreen.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_05_TheyAreGreen\obj\Debug\09.14.2013_Ev_05_TheyAreGreen.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_05_TheyAreGreen\bin\Debug\09.14.2013_Ev_05_TheyAreGreen.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_05_TheyAreGreen\bin\Debug\09.14.2013_Ev_05_TheyAreGreen.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_05_TheyAreGreen\obj\Debug\09.14.2013_Ev_05_TheyAreGreen.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\09.14.2013_Ev_05_TheyAreGreen\obj\Debug\09.14.2013_Ev_05_TheyAreGreen.pdb

@@ -1,0 +1,3 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.22.Ev_Patterns\bin\Debug\02.22.Ev_Patterns.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.22.Ev_Patterns\obj\Debug\02.22.Ev_Patterns.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.22.Ev_Patterns\obj\Debug\02.22.Ev_Patterns.pdb

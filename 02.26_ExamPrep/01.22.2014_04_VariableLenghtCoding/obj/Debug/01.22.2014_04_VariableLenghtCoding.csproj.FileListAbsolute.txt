@@ -1,0 +1,5 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\01.22.2014_04_VariableLenghtCoding\bin\Debug\01.22.2014_04_VariableLenghtCoding.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\01.22.2014_04_VariableLenghtCoding\bin\Debug\01.22.2014_04_VariableLenghtCoding.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\01.22.2014_04_VariableLenghtCoding\bin\Debug\01.22.2014_04_VariableLenghtCoding.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\01.22.2014_04_VariableLenghtCoding\obj\Debug\01.22.2014_04_VariableLenghtCoding.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\01.22.2014_04_VariableLenghtCoding\obj\Debug\01.22.2014_04_VariableLenghtCoding.pdb

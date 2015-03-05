@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.05.2013_02_JoroTheRabbit\bin\Debug\02.05.2013_02_JoroTheRabbit.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.05.2013_02_JoroTheRabbit\bin\Debug\02.05.2013_02_JoroTheRabbit.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.05.2013_02_JoroTheRabbit\bin\Debug\02.05.2013_02_JoroTheRabbit.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.05.2013_02_JoroTheRabbit\obj\Debug\02.05.2013_02_JoroTheRabbit.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.05.2013_02_JoroTheRabbit\obj\Debug\02.05.2013_02_JoroTheRabbit.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.05.2013_02_JoroTheRabbit\obj\Debug\02.05.2013_02_JoroTheRabbit.pdb

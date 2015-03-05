@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.26_ExamPrep\bin\Debug\02.26_ExamPrep.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.26_ExamPrep\obj\Debug\02.26_ExamPrep.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.26_ExamPrep\obj\Debug\02.26_ExamPrep.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.26_ExamPrep\bin\Debug\02.26_ExamPrep.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.26_ExamPrep\bin\Debug\02.26_ExamPrep.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.26_ExamPrep\obj\Debug\12-13_Kaspichan.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.05.2013_01_DurankulakNums\bin\Debug\02.05.2013_01_DurankulakNums.exe.config
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.05.2013_01_DurankulakNums\obj\Debug\02.05.2013_01_DurankulakNums.csprojResolveAssemblyReference.cache
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.05.2013_01_DurankulakNums\bin\Debug\02.05.2013_01_DurankulakNums.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.05.2013_01_DurankulakNums\bin\Debug\02.05.2013_01_DurankulakNums.pdb
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.05.2013_01_DurankulakNums\obj\Debug\02.05.2013_01_DurankulakNums.exe
+C:\Users\tochevg\From Old\C Sharp\C Charp 2\Exam Preparation\02.26_ExamPrep\02.05.2013_01_DurankulakNums\obj\Debug\02.05.2013_01_DurankulakNums.pdb
